@@ -9,6 +9,7 @@ This add-on just adds a reboot button to the menu bar. (Prototype)
 
 [![AnkiRestart Demo](https://github.com/shigeyukey/AnkiRestart/assets/124401518/cdf67a58-9ec5-4486-a560-f8136681f6cb)](https://youtu.be/q8c_POBOcMg)
 
+[Youtube](https://youtu.be/q8c_POBOcMg)
 
 ## Description
 
