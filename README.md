@@ -49,7 +49,7 @@ Allow on device.
 ## Others
 
 If you have any bugs or questions, please feel free to comment.
-
+ 
 <a href="https://github.com/shigeyukey/AnkiRestart/issues"><img src="https://github.com/shigeyukey/AnkiRestart/assets/124401518/
 82ed5296-8b0a-4a5a-acdc-dcdb2ee3b0e2" height="70" ></a>
 <a href="https://www.reddit.com/user/Shige-yuki">
